@@ -155,17 +155,32 @@ const snayeul: Developer = {
 
 ## 🎓 `// 05 · PARCOURS`
 
-```
-  ╔══╦════════════════════════════════╦══════════════╦═══════════╗
-  ║📐║ Cycle Ingénieur Informatique   ║ CESI Nanterre ║ 2026→2029 ║
-  ╠══╬════════════════════════════════╬══════════════╬═══════════╣
-  ║📐║ APCI                           ║ CESI Nancy    ║ 2025→2026 ║
-  ╠══╬════════════════════════════════╬══════════════╬═══════════╣
-  ║📐║ DEC Informatique (Mobile)      ║ CCNB, Canada  ║ 2023→2025 ║
-  ╠══╬════════════════════════════════╬══════════════╬═══════════╣
-  ║📐║ GCE A-Level Sciences           ║ Lycée Bilingue║ 2022→2023 ║
-  ╚══╩════════════════════════════════╩══════════════╩═══════════╝
-```
+<table>
+  <tr>
+    <td align="center" width="60">🎓</td>
+    <td><strong>Cycle Ingénieur Informatique</strong></td>
+    <td><img src="https://img.shields.io/badge/CESI-Nanterre-4A9EFF?style=flat-square&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/2026→2029-0d0221?style=flat-square&labelColor=9B59B6&color=9B59B6"/></td>
+  </tr>
+  <tr>
+    <td align="center">📘</td>
+    <td><strong>APCI — Année Préparatoire Cycle Ingénieur</strong></td>
+    <td><img src="https://img.shields.io/badge/CESI-Nancy-4A9EFF?style=flat-square&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/2025→2026-0d0221?style=flat-square&labelColor=4A9EFF&color=4A9EFF"/></td>
+  </tr>
+  <tr>
+    <td align="center">🍁</td>
+    <td><strong>DEC Informatique — Applications Mobiles</strong></td>
+    <td><img src="https://img.shields.io/badge/CCNB-Canada-FF6B35?style=flat-square&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/2023→2025-0d0221?style=flat-square&labelColor=FF6B35&color=FF6B35"/></td>
+  </tr>
+  <tr>
+    <td align="center">📜</td>
+    <td><strong>GCE A-Level Sciences</strong></td>
+    <td><img src="https://img.shields.io/badge/Lycée_Bilingue-Bonaberi-25D366?style=flat-square&logoColor=white"/></td>
+    <td><img src="https://img.shields.io/badge/2022→2023-0d0221?style=flat-square&labelColor=25D366&color=25D366"/></td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
