@@ -1,94 +1,79 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:2B5CE6,100:0D1117&height=160&section=header&text=SNAYEUL%20TEDONZON&fontSize=38&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%"/>
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,30:1a1a2e,100:2B5CE6&height=180&section=header&text=Snayeul%20Tedonzon&fontSize=42&fontColor=ffffff&fontAlignY=70&fontAlign=35&desc=Ingénieur%20logiciel%20·%20CESI%20Nancy%20·%20Alternance%202026–2029&descAlignY=85&descAlign=35&descSize=14&animation=scaleIn)
 
 </div>
 
 <br/>
 
-<div align="center">
-  
-**`Ingénieur logiciel · CESI Nancy · Alternance 2026–2029`**
+<div align="left">
 
-</div>
-
-<br/>
-
----
-
-```java
-// SnayeulTedy.java
-
-public class SnayeulTedy implements Developer {
-
-    private final String location   = "Nancy, France 🇫🇷";
-    private final String origin     = "Douala, Cameroun 🇨🇲";
-    private final String school     = "CESI École d'Ingénieurs — Cycle Ingénieur Informatique";
-    private final String seeking    = "Alternance 3 ans · Dev Fullstack / Data / IA · sept. 2026";
-    private final String[] stack    = { "Java", "Spring Boot", "C#", ".NET",
-                                        "Angular", "React", "Flutter",
-                                        "PostgreSQL", "Redis", "Kafka", "Docker" };
-    private final String english    = "Bilingue C1 · 925/990 TOEIC";
-
-    @Override
-    public String currentlyBuilding() {
-        return "Stage Fullstack @ ZubHub (Paris) · Java 21→25, Spring Boot 3→4";
-    }
-
-    @Override
-    public String philosophy() {
-        return "Du code maintenable, pas juste du code qui tourne.";
-    }
-}
+```bash
+$ whoami
 ```
 
----
+```
+  Snayeul TEDONZON TCHINDA
+  ┌─────────────────────────────────────────────────────────────┐
+  │  Localisation  →  Nancy, France  (Douala, Cameroun origins) │
+  │  École        →  CESI École d'Ingénieurs — cycle 2026–2029  │
+  │  Recherche    →  Alternance 3 ans · Fullstack / Data / IA   │
+  │  Rythme       →  3 sem. entreprise / 1 sem. école           │
+  │  Langues      →  Français natif · Anglais C1 (925/990)      │
+  │  Contact      →  snayeult@outlook.fr                        │
+  └─────────────────────────────────────────────────────────────┘
+```
 
-<br/>
+```bash
+$ git log --oneline --all --author="SnayeulTedy" | head -5
+```
 
-## Projets
+```
+a3f91d2  feat: migrations Java 21→25, Spring Boot 3→4 @ ZubHub
+b12c8e1  feat: application web géolocalisation iSaloon (ASP.NET Core)
+c9d3a47  feat: API REST gestion bibliothèque jeux — GameLibaryAPI
+d7f14b9  feat: système gestion élections — Gestion_Elections
+e4a02c3  feat: plateforme stages & alternance — stageo (PHP)
+```
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SnayeulTedy/GameLibaryAPI">🎮 GameLibaryAPI</a></h3>
-      <p>API REST de gestion d'une bibliothèque de jeux vidéo. Architecture en couches, Entity Framework, SignalR temps réel.</p>
-      <p><code>C#</code> <code>ASP.NET Core</code> <code>PostgreSQL</code> <code>SignalR</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SnayeulTedy/iSaloon">💈 iSaloon</a></h3>
-      <p>Géolocalisation de salons de coiffure à proximité. Carte interactive, recherche par critères, interface responsive.</p>
-      <p><code>ASP.NET Core MVC</code> <code>Leaflet.js</code> <code>SQL Server</code></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SnayeulTedy/Veticare">🐾 Veticare</a></h3>
-      <p>Application de gestion d'une clinique vétérinaire. Gestion des patients, rendez-vous et dossiers médicaux.</p>
-      <p><code>C#</code> <code>SQL Server</code> <code>Architecture multicouche</code></p>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/SnayeulTedy/Gestion_Elections">🗳️ Gestion_Elections</a></h3>
-      <p>Système de gestion électorale. Gestion des candidats, des bureaux de vote et décompte des résultats.</p>
-      <p><code>Java</code> <code>POO</code> <code>Swing</code></p>
-    </td>
-  </tr>
-</table>
+```bash
+$ cat current_status.txt
+```
 
-<br/>
+```
+  [■■■■■■■■░░]  Stage fullstack @ ZubHub, Paris
+  Stack actif  :  Java 21/25 · Spring Boot 3/4 · Kafka · Redis · React · PostgreSQL
+  En cours     :  migrations de version, tests, revues de code, cérémonies Agile
+  Disponible   :  Alternance · septembre 2026 · toute la France
+```
+
+</div>
 
 ---
 
 ## Stack
 
+<br/>
+
 <div align="center">
 
-| Domaine | Technologies |
-|---|---|
-| **Back-end** | ![Java](https://img.shields.io/badge/-Java-0D1117?style=flat&logo=openjdk&logoColor=ED8B00) ![Spring Boot](https://img.shields.io/badge/-Spring_Boot-0D1117?style=flat&logo=spring-boot&logoColor=6DB33F) ![C#](https://img.shields.io/badge/-C%23-0D1117?style=flat&logo=c-sharp&logoColor=239120) ![.NET](https://img.shields.io/badge/-.NET-0D1117?style=flat&logo=dotnet&logoColor=512BD4) |
-| **Front-end** | ![Angular](https://img.shields.io/badge/-Angular-0D1117?style=flat&logo=angular&logoColor=DD0031) ![React](https://img.shields.io/badge/-React-0D1117?style=flat&logo=react&logoColor=61DAFB) ![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=flat&logo=flutter&logoColor=02569B) ![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat&logo=typescript&logoColor=3178C6) |
-| **Data** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat&logo=postgresql&logoColor=316192) ![Redis](https://img.shields.io/badge/-Redis-0D1117?style=flat&logo=redis&logoColor=DC382D) ![Kafka](https://img.shields.io/badge/-Kafka-0D1117?style=flat&logo=apache-kafka&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-0D1117?style=flat&logo=mongodb&logoColor=4EA94B) |
-| **Infra** | ![Docker](https://img.shields.io/badge/-Docker-0D1117?style=flat&logo=docker&logoColor=2CA5E0) ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0D1117?style=flat&logo=azure-devops&logoColor=0078D7) ![Jenkins](https://img.shields.io/badge/-Jenkins-0D1117?style=flat&logo=jenkins&logoColor=D24939) ![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&logoColor=F05032) |
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=flat-square&logo=dotnet&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat-square&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=flutter&logoColor=white)
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=redis&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Kafka-%23231F20.svg?style=flat-square&logo=apache-kafka&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232CA5E0.svg?style=flat-square&logo=docker&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-%230078D7.svg?style=flat-square&logo=azure-devops&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
@@ -96,18 +81,41 @@ public class SnayeulTedy implements Developer {
 
 ---
 
-## Stats
+## Projets
+
+<br/>
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=SnayeulTedy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2B5CE6&icon_color=2B5CE6&text_color=808080&count_private=true&include_all_commits=true&hide=prs,issues"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnayeulTedy&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2B5CE6&text_color=808080&langs_count=6"/>
+| | Projet | Description | Stack |
+|---|---|---|---|
+| 🎮 | [**GameLibaryAPI**](https://github.com/SnayeulTedy/GameLibaryAPI) | API REST · bibliothèque de jeux vidéo · temps réel | `C#` `ASP.NET Core` `PostgreSQL` `SignalR` |
+| 💈 | [**iSaloon**](https://github.com/SnayeulTedy/iSaloon) | Géolocalisation de salons de coiffure | `ASP.NET Core MVC` `Leaflet.js` `SQL Server` |
+| 🐾 | [**Veticare**](https://github.com/SnayeulTedy/Veticare) | Gestion d'une clinique vétérinaire | `C#` `SQL Server` `Architecture multicouche` |
+| 🗳️ | [**Gestion_Elections**](https://github.com/SnayeulTedy/Gestion_Elections) | Système de gestion électorale | `Java` `POO` `Swing` |
+| 🎓 | [**stageo**](https://github.com/SnayeulTedy/stageo) | Plateforme de stages et alternances | `PHP` `MySQL` `HTML/CSS` |
+
+</div>
+
+<br/>
+
+---
+
+## Statistiques
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SnayeulTedy&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2B5CE6&icon_color=2B5CE6&text_color=6e7681&include_all_commits=true&count_private=true" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnayeulTedy&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2B5CE6&text_color=6e7681&langs_count=7" height="155"/>
 
 </div>
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SnayeulTedy&bg_color=0D1117&color=2B5CE6&line=2B5CE6&point=FFFFFF&area=true&area_color=2B5CE6&hide_border=true&custom_title=Activit%C3%A9+GitHub"/>
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=SnayeulTedy&bg_color=0D1117&color=2B5CE6&line=2B5CE6&point=FFFFFF&area=true&area_color=1a1a2e&hide_border=true&custom_title=Contribution+graph"/>
 
 </div>
 
@@ -117,12 +125,12 @@ public class SnayeulTedy implements Developer {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/snayeul-tedonzon)
-[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=microsoft-outlook&logoColor=0078D4)](mailto:snayeult@outlook.fr)
-[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnayeulTedy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snayeul-tedonzon)
+[![Email](https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:snayeult@outlook.fr)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SnayeulTedy)
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2B5CE6,100:0D1117&height=100&section=footer" width="100%"/>
+![footer](https://capsule-render.vercel.app/api?type=slice&color=0:2B5CE6,100:0D1117&height=80&section=footer&reversal=true)
 
 </div>
