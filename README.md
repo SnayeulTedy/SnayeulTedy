@@ -1,9 +1,8 @@
 <div align="center">
 
-# 👋 Salut, moi c'est Snayeul TEDONZON TCHINDA
+# 👋 SALUT, C'EST MOI.  SNAYEUL TEDONZON
 
 ### 🎓 Étudiant Ingénieur Informatique · CESI École d'Ingénieurs
-### 🔍 En recherche d'alternance 3 ans · Disponible dès septembre 2026
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-snayeul--tedonzon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snayeul-tedonzon)
 [![Email](https://img.shields.io/badge/Email-snayeult@outlook.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snayeult@outlook.fr)
@@ -82,9 +81,9 @@ Passions  : Dev fullstack · Architecture logicielle · IA · Open source
 
 | Poste | Entreprise | Période | Stack |
 |---|---|---|---|
-| 🧑‍💻 Développeur Full-Stack | **ZubHub** — Paris | Juin 2026 – Présent | Java · Spring Boot · Kafka · React · PostgreSQL |
-| 🌐 Développeur Web | **HES Digital Services** — Cameroun | Juin – Août 2025 | C# · .NET MVC · SQL Server · REST API |
-| 🔍 Analyste-Développeur | **ETS Le Progrès** — Cameroun | Juin – Sept. 2024 | C# · SQL Server · Architecture multicouche |
+| 🧑‍💻 Développeur Full-Stack | **ZubHub** — Paris | Juin 2026 – Août 2026 | Java · Spring Boot · Kafka · React · PostgreSQL |
+| 🌐 Développeur Web | **HES Digital Services** — Gatineau QC | Juin – Août 2025 | C# · .NET MVC · SQL Server · REST API |
+| 🔍 Analyste Développeur | **ETS Le Progrès** — Cameroun | Juin – Sept. 2024 | C# · SQL Server · Architecture multicouche |
 
 ---
 
