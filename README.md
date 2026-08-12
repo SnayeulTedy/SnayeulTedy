@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0f3d,60:1a1a6b,100:4A9EFF&height=220&section=header&text=Snayeul_Dev&fontSize=65&fontColor=ffffff&fontAlignY=62&desc=Full-Stack%20Developer%20·%20Ingénieur%20CESI&descSize=19&descAlignY=80&descColor=4A9EFF&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=venom&color=0:0d0221,30:0a0f3d,60:1a1a6b,100:4A9EFF&height=220&section=header&text=SnayeulTedy&fontSize=50&fontColor=ffffff&fontAlignY=62&desc=FullStack%20Developer%20·%20Ingénieur%20Logiciel%20·%20CESI.ei&descSize=19&descAlignY=80&descColor=4A9EFF&animation=fadeIn)
 
 </div>
 
@@ -185,18 +185,12 @@ const snayeul: Developer = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 📊 `// GITHUB STATS`
-
+ 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SnayeulTedy&show_icons=true&hide_border=true&bg_color=0d0221&title_color=4A9EFF&icon_color=FF6B35&text_color=c9d1d9&ring_color=9B59B6&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnayeulTedy&layout=compact&langs_count=8&hide_border=true&bg_color=0d0221&title_color=4A9EFF&text_color=c9d1d9"/>
-
-<img src="https://streak-stats.demolab.com?user=SnayeulTedy&hide_border=true&background=0D0221&ring=9B59B6&fire=FF6B35&currStreakLabel=4A9EFF&sideNums=4A9EFF&dates=555e75&sideLabels=88b4e7&currStreakNum=FF6B35&stroke=0d0221"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=SnayeulTedy&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SnayeulTedy&theme=react-dark&hide_border=true&bg_color=0d0221&color=4A9EFF&line=9B59B6&point=FF6B35&area=true&area_color=4A9EFF" width="100%"/>
 
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 💡 `// CITATION DU JOUR`
@@ -217,17 +211,19 @@ const snayeul: Developer = {
 |:---:|:---:|:---:|
 | [![Email](https://img.shields.io/badge/snayeult@outlook.fr-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snayeult@outlook.fr) | [![LinkedIn](https://img.shields.io/badge/snayeultedonzon-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/snayeul-tedonzon) | [![Portfolio](https://img.shields.io/badge/vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://snayeul-tedonzon.vercel.app) |
 
-| ✈️ Telegram | 💬 WhatsApp |
-|:---:|:---:|
-| [![Telegram](https://img.shields.io/badge/t.me/Snayeul-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Snayeul) | [![WhatsApp](https://img.shields.io/badge/wa.me/33753949157-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33753949157) |
+| ✈️ Telegram | 💬 WhatsApp | 🎮 Discord |
+|:---:|:---:|:---:|
+| [![Telegram](https://img.shields.io/badge/t.me/Snayeul-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Snayeul) | [![WhatsApp](https://img.shields.io/badge/wa.me/33753949157-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/33753949157) | [![Discord](https://img.shields.io/badge/snayeult-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/snayeult) |
 
 <br>
 
-```
-// Je transforme des idées en applications fiables et élégantes,
-// avec une attention particulière pour les architectures modernes.
-// ─── Mobile sur toute la France · Disponible dès septembre 2026 ───
-```
+<div align="center">
+ 
+![Mobile](https://img.shields.io/badge/🌍_Mobile_France_entière-0d0221?style=for-the-badge&labelColor=0d2137&color=4A9EFF)
+![Dispo](https://img.shields.io/badge/🟢_Disponible_dès_sept._2026-0d0221?style=for-the-badge&labelColor=0d2137&color=25D366)
+![Alternance](https://img.shields.io/badge/💼_Alternance_3_ans-0d0221?style=for-the-badge&labelColor=0d2137&color=9B59B6)
+ 
+</div>
 
 <br>
 
@@ -237,6 +233,6 @@ const snayeul: Developer = {
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A9EFF,50:9B59B6,100:0d0221&height=120&section=footer&text=Snayeul_Dev&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:4A9EFF,50:9B59B6,100:0d0221&height=120&section=footer&text=SnayeulTedy&fontSize=24&fontColor=ffffff&fontAlignY=70&animation=fadeIn)
 
 </div>
