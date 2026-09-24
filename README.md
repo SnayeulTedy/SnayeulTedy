@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&width=700&lines=🟢+OPEN_TO_WORK+·+ALTERNANCE+3+ANS+·+SEPT_2026;SNAYEUL+TEDONZON+TCHINDA;Java+·+Spring+Boot+·+C%23+·+Angular+·+React;Mobile+France+·+Nancy+(54)+·+Les+Ulis+(91))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&duration=2000&pause=600&color=00D4FF&background=00000000&center=true&vCenter=true&width=700&lines=🟢+OPEN_TO_WORK+·+STAGE+16+-+16+SEMAINES+·+JANVIER_2027;SNAYEUL+TEDONZON;Java+·+Spring+Boot+·+C%23+·+Angular+·+React;Mobile+France+LUXEMBOURG+·+Nancy+(54)+·+Les+Ulis+(91))](https://git.io/typing-svg)
 
 </div>
 
